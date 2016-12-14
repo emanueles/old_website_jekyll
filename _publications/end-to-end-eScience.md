@@ -1,0 +1,29 @@
+---
+title: "End-to-End eScience: Integrating Workﬂow, Query, Visualization, and Provenance at an Ocean Observatory"
+layout: page
+date: 2008-11-04
+year: 2008
+month: 11
+description:
+tags: []
+pub: true
+headerImage: true
+authors: B. Howe, P. Lawson, R. Bellinger, E. Anderson, E. Santos, J. Freire, C. Scheidegger, A. Baptista, C. Silva
+in: In Proceedings of 4th IEEE International Conference on e-Science, pp. 127-134
+file: http://vgc.poly.edu/~emanuele/howe_endtoend.pdf
+image: /assets/images/thumbs/escience.png
+bibtex:  /assets/citations/escience.bib
+---
+
+# Examining Statistics of Workflow Evolution Provenance: A First Study
+
+Authors: B. Howe, P. Lawson, R. Bellinger, E. Anderson, E. Santos, J. Freire, C. Scheidegger, A. Baptista, C. Silva. In Proceedings of 4th IEEE International Conference on e-Science, pp. 127-134, 2008.
+
+<img src="/assets/images/thumbs/escience.png" style="width: 400px;" />
+
+## Abstract
+Data analysis tasks at an Ocean Observatory require integrative and and domain-specialized use of database, workflow, visualization systems. We describe a platform to support these tasks developed as part of the cyberinfrastructure at the NSF Science and Technology Center for Coastal Margin Observation and Prediction integrating a provenance-aware workflow system, 3D visualization, and a remote query engine for large-scale ocean circulation models. We show how these disparate tools complement each other and give examples of real scientific insights delivered by the integrated system. We conclude that data management solutions for eScience require this kind of holistic, integrative approach, explain how our approach may be generalized, and recommend a broader, applicationoriented research agenda to explore relevant architectures.
+
+[Full paper](http://vgc.poly.edu/~emanuele/howe_endtoend.pdf)
+
+[Download citation](/assets/citations/escience.bib) 
