@@ -1,6 +1,6 @@
 ---
 title: The First Provenance Challenge
-layout: post
+layout: page
 date: 2008-04-04
 year: 2008
 month: 04

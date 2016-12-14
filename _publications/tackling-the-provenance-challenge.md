@@ -1,6 +1,6 @@
 ---
 title: Tackling the Provenance Challenge One Layer at a Time
-layout: post
+layout: page
 date: 2008-04-03
 year: 2008
 month: 04

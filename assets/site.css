@@ -10,7 +10,6 @@
 }
 .nav-home>.list>.item {
     min-width: 140px;
-    display: table-cell;
 }
 .pub-table {
     display: table;

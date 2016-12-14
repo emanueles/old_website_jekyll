@@ -1,7 +1,7 @@
 ---
 title: "VisTrails: Visualization Meets Data Management"
-layout: post
-date: '2006-11-03'
+layout: page
+date: 2006-11-03
 year: 2006
 month: 11
 description:
