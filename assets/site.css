@@ -2,10 +2,11 @@
     display: flex;
 }
 .fixed{
-    width: 150px;
-    min-width: 150px;
+    width: 200px;
+    min-width: 200px;
 }
 .flex-item{
+    margin: 2pt;
     flex-grow: 1;
 }
 .nav-home>.list>.item {
@@ -19,14 +20,14 @@
     display: table-row;
 }
 .thumb-div{
-    width: 130px;
+    width: 200px;
     display: table-cell;
 }
 .thumb{
-    width: 120px;
+    width: 190px;
 }
 .logo{
-    width: 100px;
+    width: 120px;
 }
 .pub-title {
     

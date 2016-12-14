@@ -19,7 +19,7 @@ bibtex:  /assets/citations/ssdbm2008.bib
 
 Authors: L. Lins, D. Koop, E. Anderson, S. Callahan, E. Santos, C. Scheidegger, J. Freire and C. Silva. In Proceedings of SSDBM 2008, vol. 5069/2008, pp.573--579, 2008.
 
-<img src="/assets/images/thumbs/ssdbm2008.png" style="width: 400px;" />
+<img src="/assets/images/thumbs/ssdbm2008.png" style="width: 100%;" />
 
 ## Abstract
 Provenance (also referred to as audit trail, lineage, and pedigree)
