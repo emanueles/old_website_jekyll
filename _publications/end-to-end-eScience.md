@@ -1,9 +1,9 @@
 ---
 title: "End-to-End eScience: Integrating Workﬂow, Query, Visualization, and Provenance at an Ocean Observatory"
 layout: page
-date: 2008-11-04
+date: 2008-12-04
 year: 2008
-month: 11
+month: 12
 description:
 tags: []
 pub: true
