@@ -18,7 +18,7 @@ bibtex: /assets/citations/sigmod2006.bib
 
 Authors: S. Callahan, J. Freire, E. Santos, C. Scheidegger, C.T. Silva and H.T. Vo. In Proceedings of ACM SIGMOD International Conference on Management of Data, pp. 745-747, 2006.
 
-<img src="/assets/media/thumbs/sigmod2006.png" style="width: 100%;" />
+<center><img src="/assets/images/thumbs/sigmod2006.png" style="width: 80%;" /></center>
 
 [Full paper](http://www.vistrails.org/download/download.php?type=PUB&id=sigmod2006.pdf)
 

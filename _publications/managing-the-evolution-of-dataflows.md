@@ -18,7 +18,7 @@ bibtex: /assets/citations/sciflow2006.bib
 
 Authors: S. Callahan, J. Freire, E. Santos, C. Scheidegger, C.T. Silva and H.T. Vo. In Proceedings of IEEE Workshop on Workﬂow and Data Flow for Scientific Applications (SciFlow), 2006.
 
-<img src="/assets/images/thumbs/sciflow.png" style="width:60%;" />
+<center><img src="/assets/images/thumbs/sciflow.png" style="width:50%;" /></center>
 
 # Description
 In this paper, we describe the provenance mechanism used in VisTrails, which uniformly captures changes to parameter values as well as to workflow definitions.

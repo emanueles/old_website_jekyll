@@ -17,7 +17,7 @@ bibtex: /assets/citations/challengeeditorial2008.bib
 # The First Provenance Challenge
 Authors: L. Moreau, B. Ludscher, I. Altintas, R. Barga, S. Bowers, S. Callahan, G. Chin Jr., B. Clifford, S. Cohen, S. Cohen-Boulakia, S. Davidson, E. Deelman, L. Digiampietri, I. Foster, J. Freire, J. Frew, J. Futrelle, T. Gibson, Y. Gil, C. Goble, J. Golbeck, P. Groth, D. A. Holland, S. Jiang, J. Kim, D. Koop, A. Krenek, T. McPhillips, G. Mehta, S. Miles, D. Metzger, S. Munroe, J. Myers, B. Plale, N. Podhorszki, V. Ratnakar, E. Santos, C. Scheidegger, K. Schuchardt, M. Seltzer, Y. L. Simmhan, C. Silva, P. Slaughter, E. Stephan, R. Stevens, D. Turi, H. Vo, M. Wilde, J. Zhao, and Y. Zhao. Concurrency and Computation: Practice and Experience, vol. 20, no. 5, pp. 409--418, 2008.
 
-<img src="/assets/images/thumbs/challengeeditorial2008.png" style="width: 100%;" />
+<center><img src="/assets/images/thumbs/challengeeditorial2008.png" style="width: 70%;" /></center>
 
 ## Abstract
 

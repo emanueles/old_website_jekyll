@@ -18,7 +18,7 @@ bibtex: /assets/citations/provchal2008.bib
 
 Authors: C. Scheidegger, D. Koop, E. Santos, H. Vo, S. Callahan, J. Freire and C. Silva. Concurrency and Computation: Practice and Experience, vol. 20, no. 5, pp. 473--483, 2008.
 
-<img src="/assets/images/thumbs/provchal2008.png" style="width: 100%;" />
+<center><img src="/assets/images/thumbs/provchal2008.png" style="width: 100%;" /></center>
 
 ## Abstract
 
