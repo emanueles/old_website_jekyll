@@ -6,9 +6,11 @@ layout: page
     <div class="toleft"> <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Profile Image">
     </div>
     <div class="toright">
-        <p>I am a Professor in the [Department of Computer Science](http://portal.dc.ufc.br/) at the [Federal University of Ceara](http://www.ufc.br "UFC"), in Brazil.</p>
+        <p>I am a Professor in the <a href="http://portal.dc.ufc.br/">Department of Computer Science</a> at the <a href="http://www.ufc.br">Federal University of Ceara</a>, in Brazil.</p>
+        
         <p>My research interests include data visualization and data science.</p>
-        <p>I’ve got a PhD in Computing at the University of Utah in 2010. Previously I’ve got a B.S and an M.S degree in Computer Science from the Federal University of Ceara in Brazil.</p>
+
+        <p>I’ve got a PhD in Computing at the University of Utah in 2010. Previously I’ve got a B.S and an M.S degree in Computer Science from the Federal University of Ceara in Brazil. </p>
     </div>
 </div>
 I was one of the main developers of [VisTrails](http://www.vistrails.org) and [crowdLabs](http://www.crowdlabs.org).
