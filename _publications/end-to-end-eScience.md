@@ -17,7 +17,7 @@ bibtex:  /assets/citations/escience.bib
 
 # End-to-End eScience: Integrating Workﬂow, Query, Visualization, and Provenance at an Ocean Observatory
 
-Authors: B. Howe, P. Lawson, R. Bellinger, E. Anderson, E. Santos, J. Freire, C. Scheidegger, A. Baptista, C. Silva. In Proceedings of 4th IEEE International Conference on e-Science, pp. 127-134, 2008.
+B. Howe, P. Lawson, R. Bellinger, E. Anderson, E. Santos, J. Freire, C. Scheidegger, A. Baptista, and C. Silva. End-to-end escience: Integrating workflow, query, visualization, and provenance at an ocean observatory. In 2008 IEEE Fourth International Conference on eScience, pages 127–134, Dec 2008.
 
 <center><img src="/assets/images/thumbs/escience.png" style="width: 70%;" /></center>
 

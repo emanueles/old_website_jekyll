@@ -16,7 +16,7 @@ bibtex: /assets/citations/sigmod2006.bib
 
 # VisTrails: Visualization Meets Data Management
 
-Authors: S. Callahan, J. Freire, E. Santos, C. Scheidegger, C.T. Silva and H.T. Vo. In Proceedings of ACM SIGMOD International Conference on Management of Data, pp. 745-747, 2006.
+S. Callahan, J. Freire, E. Santos, C. Scheidegger, C. Silva, and H. Vo. Vis- Trails: Visualization meets Data Management. In Proc. of ACM SIGMOD, pages 745–747, 2006.
 
 <center><img src="/assets/images/thumbs/sigmod2006.png" style="width: 80%;" /></center>
 

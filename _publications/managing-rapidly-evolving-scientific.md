@@ -16,8 +16,7 @@ bibtex: /assets/citations/ipaw2006.bib
 
 # Managing Rapidly-Evolving Scientific Workflows
 
-Authors: J. Freire, C.T. Silva, S. Callahan, E. Santos, C. Scheidegger and H.T. Vo.
-In Proceedings of International Provenance and Annotation Workshop (IPAW), 2006.
+J. Freire, C. Silva, S. Callahan, E. Santos, C. Scheidegger, and H. Vo. Man- aging rapidly-evolving scientific workflows. In International Provenance and Annotation Workshop (IPAW), LNCS 4145, pages 10–18. Springer Ver- lag, 2006.
 
 <center><img src="/assets/images/thumbs/ipaw2006.png" style="width: 50%;" /></center>
 
