@@ -17,7 +17,7 @@ bibtex:  /assets/citations/ssdbm2008.bib
 
 # Examining Statistics of Workflow Evolution Provenance: A First Study
 
-Authors: L. Lins, D. Koop, E. Anderson, S. Callahan, E. Santos, C. Scheidegger, J. Freire and C. Silva. In Proceedings of SSDBM 2008, vol. 5069/2008, pp.573--579, 2008.
+L. Lins, D. Koop, E. W. Anderson, S. P. Callahan, E. Santos, C. E. Scheidegger, J. Freire, and C. T. Silva. Examining statistics of workflow evolution provenance: A first study. In B. Ludscher and N. Mamoulis, editors, Scientific and Statistical Database Management, volume 5069 of Lecture Notes in Computer Science, pages 573–579. Springer Berlin Heidelberg, 2008.
 
 <img src="/assets/images/thumbs/ssdbm2008.png" style="width: 100%;" />
 
