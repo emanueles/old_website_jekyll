@@ -26,4 +26,4 @@ An online article with a VisMashup application illustrates the advantages of an 
 
 [Full paper](http://www.computer.org/portal/web/csdl/doi/10.1109/MCSE.2010.72)
 
-[Download citation](/assets/citations/cise2010.bib) 
+[BibTex](/assets/citations/cise2010.bib) 

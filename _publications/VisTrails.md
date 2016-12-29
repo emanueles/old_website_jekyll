@@ -26,4 +26,4 @@ As publishers establish a greater online presence as well as infrastructure to s
 
 [Full paper](http://www.aosabook.org/en/vistrails.html)
 
-[Download citation](/assets/citations/vt-aosabook.bib) 
+[BibTex](/assets/citations/vt-aosabook.bib) 

@@ -22,5 +22,5 @@ S. Callahan, J. Freire, E. Santos, C. Scheidegger, C. Silva, and H. Vo. Vis- Tra
 
 [Full paper](http://www.vistrails.org/download/download.php?type=PUB&id=sigmod2006.pdf)
 
-[Download citation](/assets/media/citations/sigmod2006.bib)
+[BibTex](/assets/media/citations/sigmod2006.bib)
 

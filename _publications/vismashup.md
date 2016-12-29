@@ -26,4 +26,4 @@ Visualization is essential for understanding the increasing volumes of digital d
 
 [Full paper](http://www.vistrails.org/download/download.php?type=PUB&id=vismashup.pdf)
 
-[Download citation](/assets/citations/vismashup.bib) 
+[BibTex](/assets/citations/vismashup.bib) 
