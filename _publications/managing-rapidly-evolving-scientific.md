@@ -7,6 +7,7 @@ month: 10
 description:
 tags: []
 pub: true
+headerImage: true
 authors: J. Freire, C.T. Silva, S. Callahan, E. Santos, C. Scheidegger and H.T. Vo
 in : In Proceedings of International Provenance and Annotation Workshop (IPAW)
 file: http://www.vistrails.org/download/download.php?type=PUB&id=ipaw2006.pdf
@@ -16,7 +17,7 @@ bibtex: /assets/citations/ipaw2006.bib
 
 # Managing Rapidly-Evolving Scientific Workflows
 
-J. Freire, C. Silva, S. Callahan, E. Santos, C. Scheidegger, and H. Vo. Man- aging rapidly-evolving scientific workflows. In International Provenance and Annotation Workshop (IPAW), LNCS 4145, pages 10–18. Springer Ver- lag, 2006.
+*J. Freire, C. Silva, S. Callahan, E. Santos, C. Scheidegger, and H. Vo. Managing rapidly-evolving scientific workflows. In International Provenance and Annotation Workshop (IPAW), LNCS 4145, pages 10–18. Springer Verlag, 2006.*
 
 <center><img src="/assets/images/thumbs/ipaw2006.png" style="width: 50%;" /></center>
 
@@ -26,4 +27,4 @@ We give an overview of VisTrails, a system that provides an infrastructure for s
 
 [Full paper](http://www.vistrails.org/download/download.php?type=PUB&id=ipaw2006.pdf)
 
-[Download citation](/assets/citations/ipaw2006.bib) 
+[BibTex](/assets/citations/ipaw2006.bib) 

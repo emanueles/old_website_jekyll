@@ -7,6 +7,7 @@ month: 06
 description:
 tags: []
 pub: true
+headerImage: true
 authors: E. Santos, D. Koop, T. Maxwell, C. Doutriaux, T. Ellqvist, G. Potter, J. Freire, D. N. Williams and C. Silva
 in: "In Proceedings of 4th International Provenance and Annotation Workshop, pp. 214--219"
 file: /assets/paper/santos_ipaw2012.pdf
@@ -16,7 +17,7 @@ bibtex: /assets/citations/uvcdat_ipaw2012.bib
 
 # Designing a Provenance-Based Climate Data Analysis Application
 
-Authors: E. Santos, D. Koop, T. Maxwell, C. Doutriaux, T. Ellqvist, G. Potter, J. Freire, D. N. Williams and C. Silva. In Proceedings of 4th International Provenance and Annotation Workshop, pp. 214--219, 2012. 
+*E. Santos, D. Koop, T. Maxwell, C. Doutriaux, T. Ellqvist, G. Potter, J. Freire, D. Williams, and C. T. Silva. Designing a provenance-based climate data analysis application. In P. Groth and J. Frew, editors, Prove- nance and Annotation of Data and Processes: 4th International Provenance and Annotation Workshop, IPAW 2012, Santa Barbara, CA, USA, June 19-21, 2012, Revised Selected Papers, pages 214–219. Springer Berlin Hei- delberg, Berlin, Heidelberg, 2012.*
 
 <center><img src="/assets/images/thumbs/uvcdat_ipaw2012.png" style="width: 80%;" /></center>
 
@@ -26,4 +27,4 @@ Climate scientists have made substantial progress in under- standing Earth’s c
 
 [Full paper](/assets/paper/santos_ipaw2012.pdf)
 
-[Download citation](/assets/citations/uvcdat_ipaw2012.bib)
+[BibTex](/assets/citations/uvcdat_ipaw2012.bib)

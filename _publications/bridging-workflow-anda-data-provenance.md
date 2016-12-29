@@ -17,7 +17,7 @@ bibtex:  /assets/citations/ssdbm2010.bib
 
 # Bridging Workﬂow and Data Provenance using Strong Links
 
-D. Koop, E. Santos, B. Bauer, M. Troyer, J. Freire, and C. T. Silva. Bridging workflow and data provenance using strong links. In M. Gertz and B. Ludäscher, editors, Scientific and Statistical Database Management: 22nd International Conference, SSDBM 2010, Heidelberg, Germany, June 30–July 2, 2010. Proceedings, pages 397–415. Springer Berlin Heidelberg, Berlin, Heidelberg, 2010.
+*D. Koop, E. Santos, B. Bauer, M. Troyer, J. Freire, and C. T. Silva. Bridging workflow and data provenance using strong links. In M. Gertz and B. Ludäscher, editors, Scientific and Statistical Database Management: 22nd International Conference, SSDBM 2010, Heidelberg, Germany, June 30–July 2, 2010. Proceedings, pages 397–415. Springer Berlin Heidelberg, Berlin, Heidelberg, 2010.*
 
 <center><img src="/assets/images/thumbs/strong_links.png" style="width: 80%;" /></center>
 
@@ -26,4 +26,4 @@ As scientists continue to migrate their work to computational methods, it is imp
 
 [Full paper](http://vgc.poly.edu/~juliana/pub/stronglinks-ssdbm2010.pdf)
 
-[Download citation](/assets/citations/ssdbm2010.bib) 
+[BibTex](/assets/citations/ssdbm2010.bib) 

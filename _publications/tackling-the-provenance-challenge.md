@@ -7,6 +7,7 @@ month: 04
 description:
 tags: []
 pub: true
+headerImage: true
 authors: C. Scheidegger, D. Koop, E. Santos, H. Vo, S. Callahan, J. Freire and C. Silva
 in: "Concurrency and Computation: Practice and Experience, vol. 20, no. 5, pp. 473--483"
 file: /assets/papers/vistrails_provenance_challlenge.pdf
@@ -16,7 +17,7 @@ bibtex: /assets/citations/provchal2008.bib
 
 # Tackling the Provenance Challenge One Layer at a Time
 
-Authors: C. Scheidegger, D. Koop, E. Santos, H. Vo, S. Callahan, J. Freire and C. Silva. Concurrency and Computation: Practice and Experience, vol. 20, no. 5, pp. 473--483, 2008.
+*C. Scheidegger, D. Koop, E. Santos, H. Vo, S. Callahan, J. Freire, and C. Silva. Tackling the provenance challenge one layer at a time. Concurr. Comput. : Pract. Exper., 20(5):473–483, Apr. 2008.*
 
 <center><img src="/assets/images/thumbs/provchal2008.png" style="width: 100%;" /></center>
 
@@ -37,4 +38,4 @@ Provenance Challenge queries.
 
 [Full paper](/assets/papers/vistrails_provenance_challlenge.pdf)
 
-[Download citation](/assets/citations/provchal2008.bib)
+[BibTex](/assets/citations/provchal2008.bib)

@@ -17,7 +17,7 @@ bibtex:  /assets/citations/executable_paper.bib
 
 # A Provenance-Based Infrastructure to Support the Life Cycle of Executable Papers
 
-D. Koop, E. Santos, P. Mates, H. T. Vo, P. Bonnet, B. Bauer, B. Surer, M. Troyer, D. N. Williams, J. E. Tohline, J. Freire, and C. T. Silva. A provenance-based infrastructure to support the life cycle of executable papers. Procedia Computer Science, 4:648 – 657, 2011.
+*D. Koop, E. Santos, P. Mates, H. T. Vo, P. Bonnet, B. Bauer, B. Surer, M. Troyer, D. N. Williams, J. E. Tohline, J. Freire, and C. T. Silva. A provenance-based infrastructure to support the life cycle of executable papers. Procedia Computer Science, 4:648 – 657, 2011.*
 
 <center><img src="/assets/images/thumbs/executable_paper.png" style="width: 90%;" /></center>
 
@@ -26,4 +26,4 @@ As publishers establish a greater online presence as well as infrastructure to s
 
 [Full paper](http://www.sciencedirect.com/science/article/pii/S1877050911001268)
 
-[Download citation](/assets/citations/executable_paper.bib) 
+[BibTex](/assets/citations/executable_paper.bib) 

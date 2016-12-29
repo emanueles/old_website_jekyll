@@ -17,7 +17,7 @@ bibtex:  /assets/citations/cise2010.bib
 
 # Visualizing a Journal that Serves the Computational Sciences Community
 
-Emanuele Santos, Joel E. Tohline, "Visualizing a Journal that Serves the Computational Sciences Community", Computing in Science & Engineering, vol. 12, no. 03, pp. 78-81, May/June 2010, doi:10.1109/MCSE.2010.72.
+*J. E. Tohline and E. Santos. Visualizing a journal that serves the computa- tional sciences community. Computing in Science Engineering, 12(3):78–81, May 2010.*
 
 <center><img src="/assets/images/thumbs/vismashup-cise2010.png" style="width: 70%;" /></center>
 

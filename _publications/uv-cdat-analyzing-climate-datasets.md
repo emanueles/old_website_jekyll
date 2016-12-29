@@ -1,4 +1,3 @@
-
 ---
 title: "UV-CDAT: Analyzing Climate Datasets from a User's Perspective"
 layout: page
@@ -17,7 +16,7 @@ bibtex: /assets/citations/uvcdat_cise2013.bib
 
 # UV-CDAT: Analyzing Climate Datasets from a User's Perspective
 
-Authors: E. Santos, J. Poco, Y. Wei, S. Liu, B. Cook, D. N. Williams and C. Silva. Computing in Science & Engineering, vol. 15, no. 01, pp. 94-103, Jan 2013.
+*E. Santos, J. Poco, Y. Wei, S. Liu, B. Cook, D. N. Williams, and C. T. Silva. Uv-cdat: Analyzing climate datasets from a user’s perspective. Computing in Science Engineering, 15(1):94–103, Jan 2013.*
 
 <center><img src="/assets/images/thumbs/uvcdat_cise2013.png" style="width: 80%;" /></center>
 

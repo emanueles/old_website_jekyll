@@ -17,7 +17,7 @@ bibtex:  /assets/citations/vismashup.bib
 
 # VisMashup: Streamlining the Creation of Custom Visualization Applications
 
-E. Santos, L. Lins, J. Ahrens, J. Freire and C. Silva. IEEE Trans. Vis. Comp. Graph (Proceedings of IEEE Vis 2009), 15(6), pp. 1539-1546, 2009.
+*E. Santos, L. Lins, J. Ahrens, J. Freire, and C. Silva. Vismashup: Stream- lining the creation of custom visualization applications. IEEE Transactions on Visualization and Computer Graphics, 15(6):1539–1546, Nov 2009.*
 
 <img src="/assets/images/thumbs/vismashup.png" style="width: 100%;" />
 

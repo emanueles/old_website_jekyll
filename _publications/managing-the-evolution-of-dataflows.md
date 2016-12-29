@@ -7,6 +7,7 @@ month: 04
 description:
 tags: []
 pub: true
+headerImage: true
 authors: S. Callahan, J. Freire, E. Santos, C. Scheidegger, C.T. Silva and H.T. Vo
 in : In Proceedings of IEEE Workshop on Workﬂow and Data Flow for Scientific Applications (SciFlow)
 file: http://www.vistrails.org/download/download.php?type=PUB&id=sciflow2006.pdf
@@ -16,7 +17,7 @@ bibtex: /assets/citations/sciflow2006.bib
 
 # Managing the Evolution of Dataflows with VisTrails
 
-S. Callahan, J. Freire, E. Santos, C. Scheidegger, C. Silva, and H. Vo. Managing the evolution of dataflows with vistrails (Extended Abstract). In IEEE Workshop on Workflow and Data Flow for Scientific Applications (SciFlow), pages 135–142, 2006.
+*S. Callahan, J. Freire, E. Santos, C. Scheidegger, C. Silva, and H. Vo. Managing the evolution of dataflows with vistrails (Extended Abstract). In IEEE Workshop on Workflow and Data Flow for Scientific Applications (SciFlow), pages 135–142, 2006.*
 
 <center><img src="/assets/images/thumbs/sciflow.png" style="width:50%;" /></center>
 
@@ -25,4 +26,4 @@ In this paper, we describe the provenance mechanism used in VisTrails, which uni
 
 [Full paper](http://www.vistrails.org/download/download.php?type=PUB&id=sciflow2006.pdf)
 
-[Download citation](/assets/media/citations/sciflow2006.bib)
+[BibTex](/assets/media/citations/sciflow2006.bib)

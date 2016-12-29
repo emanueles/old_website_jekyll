@@ -17,7 +17,7 @@ bibtex:  /assets/citations/alps2.bib
 
 # The ALPS project release 2.0: open source software for strongly correlated systems
 
-B. Bauer, L. D. Carr, H. G. Evertz, A. Feiguin, J. Freire, S. Fuchs, L. Gam- per, J. Gukelberger, E. Gull, S. Guertler, A. Hehn, R. Igarashi, S. V. Isakov, D. Koop, P. N. Ma, P. Mates, H. Matsuo, O. Parcollet, G. Pawowski, J. D. Picon, L. Pollet, E. Santos, V. W. Scarola, U. Schollwck, C. Silva, B. Surer, S. Todo, S. Trebst, M. Troyer, M. L. Wall, P. Werner, and S. Wessel. The alps project release 2.0: open source software for strongly correlated systems. Journal of Statistical Mechanics: Theory and Experiment, 2011(05):P05001, 2011.
+*B. Bauer, L. D. Carr, H. G. Evertz, A. Feiguin, J. Freire, S. Fuchs, L. Gam- per, J. Gukelberger, E. Gull, S. Guertler, A. Hehn, R. Igarashi, S. V. Isakov, D. Koop, P. N. Ma, P. Mates, H. Matsuo, O. Parcollet, G. Pawowski, J. D. Picon, L. Pollet, E. Santos, V. W. Scarola, U. Schollwck, C. Silva, B. Surer, S. Todo, S. Trebst, M. Troyer, M. L. Wall, P. Werner, and S. Wessel. The alps project release 2.0: open source software for strongly correlated systems. Journal of Statistical Mechanics: Theory and Experiment, 2011(05):P05001, 2011.*
 
 <center><img src="/assets/images/thumbs/alps2.png" style="width: 75%;" /></center>
 
@@ -27,4 +27,4 @@ We present release 2.0 of the ALPS (Algorithms and Libraries for Physics Simulat
 
 [Full paper](http://iopscience.iop.org/1742-5468/2011/05/P05001/)
 
-[Download citation](/assets/citations/alps2.bib) 
+[BibTex](/assets/citations/alps2.bib) 

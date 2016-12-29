@@ -7,6 +7,7 @@ month: 04
 description:
 tags: []
 pub: true
+headerImage: true
 authors: L. Moreau, B. Ludscher, I. Altintas, R. Barga, S. Bowers, S. Callahan, G. Chin Jr., B. Clifford, S. Cohen, S. Cohen-Boulakia, S. Davidson, E. Deelman, L. Digiampietri, I. Foster, J. Freire, J. Frew, J. Futrelle, T. Gibson, Y. Gil, C. Goble, J. Golbeck, P. Groth, D. A. Holland, S. Jiang, J. Kim, D. Koop, A. Krenek, T. McPhillips, G. Mehta, S. Miles, D. Metzger, S. Munroe, J. Myers, B. Plale, N. Podhorszki, V. Ratnakar, E. Santos, C. Scheidegger, K. Schuchardt, M. Seltzer, Y. L. Simmhan, C. Silva, P. Slaughter, E. Stephan, R. Stevens, D. Turi, H. Vo, M. Wilde, J. Zhao, and Y. Zhao
 in: "Concurrency and Computation: Practice and Experience, vol. 20, no. 5, pp. 409--418"
 file: /assets/papers/challenge-editorial.pdf
@@ -15,7 +16,7 @@ bibtex: /assets/citations/challengeeditorial2008.bib
 ---
 
 # The First Provenance Challenge
-Authors: L. Moreau, B. Ludscher, I. Altintas, R. Barga, S. Bowers, S. Callahan, G. Chin Jr., B. Clifford, S. Cohen, S. Cohen-Boulakia, S. Davidson, E. Deelman, L. Digiampietri, I. Foster, J. Freire, J. Frew, J. Futrelle, T. Gibson, Y. Gil, C. Goble, J. Golbeck, P. Groth, D. A. Holland, S. Jiang, J. Kim, D. Koop, A. Krenek, T. McPhillips, G. Mehta, S. Miles, D. Metzger, S. Munroe, J. Myers, B. Plale, N. Podhorszki, V. Ratnakar, E. Santos, C. Scheidegger, K. Schuchardt, M. Seltzer, Y. L. Simmhan, C. Silva, P. Slaughter, E. Stephan, R. Stevens, D. Turi, H. Vo, M. Wilde, J. Zhao, and Y. Zhao. Concurrency and Computation: Practice and Experience, vol. 20, no. 5, pp. 409--418, 2008.
+*L. Moreau, B. Lud ̈ascher, I. Altintas, R. S. Barga, S. Bowers, S. Calla- han, G. Chin, Jr., B. Clifford, S. Cohen, S. Cohen-Boulakia, S. David- son, E. Deelman, L. Digiampietri, I. Foster, J. Freire, J. Frew, J. Futrelle, T. Gibson, Y. Gil, C. Goble, J. Golbeck, P. Groth, D. A. Holland, S. Jiang, J. Kim, D. Koop, A. Krenek, T. McPhillips, G. Mehta, S. Miles, D. Met- zger, S. Munroe, J. Myers, B. Plale, N. Podhorszki, V. Ratnakar, E. San- tos, C. Scheidegger, K. Schuchardt, M. Seltzer, Y. L. Simmhan, C. Silva, P. Slaughter, E. Stephan, R. Stevens, D. Turi, H. Vo, M. Wilde, J. Zhao, and Y. Zhao. Special issue: The first provenance challenge. Concurr. Comput. : Pract. Exper., 20(5):409–418, Apr. 2008.*
 
 <center><img src="/assets/images/thumbs/challengeeditorial2008.png" style="width: 70%;" /></center>
 
@@ -25,4 +26,4 @@ The first Provenance Challenge was a community activity aiming at understanding 
 
 [Full paper](/assets/papers/challenge-editorial.pdf)
 
-[Download citation](/assets/citations/challengeeditorial2008.bib)
+[BibTex](/assets/citations/challengeeditorial2008.bib)

@@ -17,7 +17,7 @@ bibtex:  /assets/citations/dashboard_contour_tree.bib
 
 # Enabling Advanced Visualization Tools in a Web-Based Simulation Monitoring System
 
-E. Santos, J. Tierny, A. Khan, B. Grimm, L. Lins, J. Freire, V. Pascucci, C. Silva, S. Klasky, R. Barreto, N. Podhorszki. In Proceedings of 5th IEEE International Conference on e-Science, pp.358-365, 2009.
+*E. Santos, J. Tierny, A. Khan, B. Grimm, L. Lins, J. Freire, V. Pascucci, C. T. Silva, S. Klasky, R. Barreto, et al. Enabling advanced visualization tools in a web-based simulation monitoring system. In e-Science, 2009. e-Science’09. Fifth IEEE International Conference on, pages 358–365. IEEE, 2009.*
 
 <img src="/assets/images/thumbs/dashboard_contour_tree.png" style="width: 100%;" />
 
@@ -27,4 +27,4 @@ In the context of turbulent combustion for example, visualization is used to und
 
 [Full paper](http://vgc.poly.edu/~emanuele/dashboard_contour_tree.pdf)
 
-[Download citation](/assets/citations/dashboard_contour_tree.bib) 
+[BibTex](/assets/citations/dashboard_contour_tree.bib) 

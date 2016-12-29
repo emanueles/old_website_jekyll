@@ -17,7 +17,7 @@ bibtex:  /assets/citations/info_sharing.bib
 
 # Information Sharing in Science 2.0: Challenges and Opportunities
 
-Authors: E. Santos, J. Freire, and C. Silva. CHI 2009 Workshop on The Changing Face of Digital Science: Workshop on New Practices in Scientific Collaborations, 2009.
+*E. Santos, J. Freire, and C. Silva. Information Sharing in Science 2.0: Challenges and Opportunities. CHI Workshop on The Changing Face of Digital Science: New Practices in Scientific Collaborations, 2009.*
 
 <img src="/assets/images/thumbs/info_sharing.png" style="width: 100%;" />
 
@@ -26,4 +26,4 @@ Scientists are beginning to utilize wikis, mashups, blogs and other Web 2.0 tech
 
 [Full paper](http://vgc.poly.edu/~emanuele/info_sharing.pdf)
 
-[Download citation](/assets/citations/info_sharing.bib) 
+[BibTex](/assets/citations/info_sharing.bib) 

@@ -7,6 +7,7 @@ month: 06
 description:
 tags: []
 pub: true
+headerImage: true
 authors: E. Santos, L. Lins, J. Ahrens, J. Freire, C. Silva
 in: "In Proceedings of Second International Provenance and Annotation Workshop (IPAW ’08), vol. 5272/2008, pp. 160–173"
 file: http://vgc.poly.edu/~juliana/pub/cluster-ipaw2008.pdf
@@ -16,7 +17,7 @@ bibtex: /assets/citations/cluster_ipaw2008.bib
 
 # A First Study on Clustering Collections of Workﬂow Graphs
 
-Authors: E. Santos, L. Lins, J. Ahrens, J. Freire, C. Silva. In Proceedings of Second International Provenance and Annotation Workshop (IPAW ’08), vol. 5272/2008, pp. 160–173, 2008.
+*E. Santos, L. Lins, J. P. Ahrens, J. Freire, and C. T. Silva. A first study on clustering collections of workflow graphs. In J. Freire, D. Koop, and L. Moreau, editors, Provenance and Annotation of Data and Processes: Second International Provenance and Annotation Workshop, IPAW 2008, Salt Lake City, UT, USA, June 17-18, 2008. Revised Selected Papers, pages 160–173. Springer Berlin Heidelberg, Berlin, Heidelberg, 2008.*
 
 <center><img src="/assets/images/thumbs/cluster_ipaw2008.png" style="width: 80%;" /></center>
 
@@ -26,4 +27,4 @@ As workflow systems get more widely used, the number of workflows and the volume
 
 [Full paper](http://vgc.poly.edu/~juliana/pub/cluster-ipaw2008.pdf)
 
-[Download citation](/assets/citations/cluster_ipaw2008.bib)
+[BibTex](/assets/citations/cluster_ipaw2008.bib)

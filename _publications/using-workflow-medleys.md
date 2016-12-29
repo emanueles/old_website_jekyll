@@ -17,7 +17,8 @@ bibtex:  /assets/citations/using_medleys.bib
 
 # Using Workﬂow Medleys to Streamline Exploratory Tasks
 
-Authors: E. Santos, D. Koop, H. Vo, E. Anderson, J. Freire, and C. Silva. In proceedings of the 21st International Conference on Scientific and Statistical Database Management (SSDBM), pp. 292-301, 2009.
+*E. Santos, D. Koop, H. T. Vo, E. W. Anderson, J. Freire, and C. Silva. Using workflow medleys to streamline exploratory tasks. In M. Winslett, editor, Scientific and Statistical Database Management: 21st International Conference, SSDBM 2009 New Orleans, LA, USA, June 2-4, 2009 Proceedings, pages 292–301. Springer Berlin Heidelberg, Berlin, Heidelberg, 2009.*
+
 
 <img src="/assets/images/thumbs/using_medleys.png" style="width: 100%;" />
 
@@ -26,4 +27,4 @@ To analyze and understand the growing wealth of scientific data,complex workflow
 
 [Full paper](http://vgc.poly.edu/~emanuele/medleys.pdf)
 
-[Download citation](/assets/citations/using_medleys.bib) 
+[BibTex](/assets/citations/using_medleys.bib) 

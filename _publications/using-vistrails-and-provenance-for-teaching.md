@@ -17,7 +17,7 @@ bibtex:  /assets/citations/vistrails_teaching.bib
 
 # Using VisTrails and Provenance for Teaching Scientific Visualization
 
-C. Silva, E. Anderson, E. Santos and J. Freire, "Using VisTrails and Provenance for Teaching Scientific Visualization",  Computer Graphics Forum (Proceedings of Eurographics 2010 Education program), Volume 30, Issue 1, pp 75--84, 2011.
+*C. T. Silva, E. Anderson, E. Santos, and J. Freire. Using vistrails and provenance for teaching scientific visualization. Computer Graphics Forum (Proceedings of Eurographics 2010 Education program), 30(1):75–84, 2011.*
 
 <center><img src="/assets/images/thumbs/vistrails_teaching.png" style="width: 90%;" /></center>
 
@@ -26,4 +26,4 @@ Over the last 20 years, visualization courses have been developed and offered at
 
 [Full paper](/assets/papers/vistrails-teaching-cgf2011.pdf)
 
-[Download citation](/assets/citations/vistrails_teaching.bib) 
+[BibTex](/assets/citations/vistrails_teaching.bib) 

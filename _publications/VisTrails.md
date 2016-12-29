@@ -17,7 +17,7 @@ bibtex:  /assets/citations/vt-aosabook.bib
 
 # VisTrails
 
-J. Freire, D. Koop, E. Santos, C. Scheidegger, C. Silva, and H. Vo. Vistrails. In A. Brown and G. Wilson, editors, The Architecture of Open Source Applications, volume 1, chapter 23, pages 377–394. lulu.com, 1 edition, 6 2011.
+*J. Freire, D. Koop, E. Santos, C. Scheidegger, C. Silva, and H. Vo. Vistrails. In A. Brown and G. Wilson, editors, The Architecture of Open Source Applications, volume 1, chapter 23, pages 377–394. lulu.com, 1 edition, 6 2011.*
 
 <center><img src="/assets/images/thumbs/vt-aosabook.png" style="width: 90%;" /></center>
 

@@ -17,7 +17,7 @@ bibtex:  /assets/citations/cscw2010.bib
 
 # Towards Supporting Collaborative Data Analysis and Visualization in a Coastal Margin Observatory
 
-E. Santos, P. Mates, E. Anderson, B. Grimm, J. Freire and C. Silva. In Proceedings of the ACM CSCW Workshop on The Changing Dynamics of Scientific Collaborations, 2010.
+*E. Santos, P. Mates, E. Anderson, B. Grimm, J. Freire, and C. Silva. To- wards supporting collaborative data analysis and visualization in a coastal margin observatory. In Proceedings of the ACM CSCW Workshop on The Changing Dynamics of Scientific Collaborations, 2010.*
 
 <center><img src="/assets/images/thumbs/cscw2010.png" style="width: 70%;" /></center>
 
@@ -26,4 +26,4 @@ Managing and understanding the large volumes of scientific data is one of the mo
 
 [Full paper](/assets/papers/cscw2010.pdf)
 
-[Download citation](/assets/citations/cscw2010.bib) 
+[BibTex](/assets/citations/cscw2010.bib) 

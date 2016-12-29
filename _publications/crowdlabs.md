@@ -17,7 +17,7 @@ bibtex:  /assets/citations/crowdlabs.bib
 
 # CrowdLabs: Social Analysis and Visualization for the Sciences
 
-P. Mates, E. Santos, J. Freire and C. Silva, "CrowdLabs: Social Analysis and Visualization for the Sciences". In Proceedings of the 23rd International Conference on Scientific and Statistical Database Management (SSDBM), LNCS 6809/2011, pp. 555-564, 2011.
+*P. Mates, E. Santos, J. Freire, and C. T. Silva. Crowdlabs: Social analysis and visualization for the sciences. In J. Bayard Cushing, J. French, and S. Bowers, editors, Scientific and Statistical Database Management: 23rd International Conference, SSDBM 2011, Portland, OR, USA, July 20-22, 2011. Proceedings, pages 555–564. Springer Berlin Heidelberg, Berlin, Heidelberg, 2011.*
 
 <center><img src="/assets/images/thumbs/crowdlabs_ssdbm.png" style="width: 75%;" /></center>
 
@@ -26,4 +26,4 @@ As scientists continue to migrate their work to computational methods, it is imp
 
 [Full paper](/assets/papers/crowdlabs_preprint.pdf)
 
-[Download citation](/assets/citations/crowdlabs.bib) 
+[BibTex](/assets/citations/crowdlabs.bib) 
