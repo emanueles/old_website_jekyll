@@ -100,11 +100,9 @@ collections:
     publications:
       layout: page
       output: true
-      paginate: 5
     projs:
       layout: page
       output: true
-      paginate: 5
 
 sass:
     sass_dir: _sass
