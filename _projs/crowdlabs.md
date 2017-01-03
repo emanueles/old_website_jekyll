@@ -1,12 +1,12 @@
 ---
 title: crowdLabs
 layout: page
-date: 2013-05-30
+date: 2011-07-30
 description:
 tags: []
 old: true
 tagline: a social visualization repository for VisTrails
-logo: http://www.crowdlabs.org/site_media/static/pinax/img/logo.png
+logo: /assets/images/logos/crowdlabs_logo.png
 ---
 
 # crowdLabs

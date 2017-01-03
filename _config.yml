@@ -72,6 +72,7 @@ width: large
 # if you don't need projects, comment the *projects* configs below
 projects: true
 teaching: true
+students: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -106,7 +107,7 @@ collections:
 
 sass:
     sass_dir: _sass
-    style: :compressed
+    style: compressed
 
 gems:
   - jemoji
@@ -116,6 +117,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-coffeescript
 
 jekyll-mentions:
     base_url: https://github.com

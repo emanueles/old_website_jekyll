@@ -6,10 +6,26 @@
             </li>
         {% endif %}
 
-        {% if site.projects == true %}
-            {% if page.title != "Projects" %}
+        {% if site.pub == true %}
+            {% if page.title != "Publications" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projs">Projects</a>
+                    <a class="link" href="{{ site.url }}/publications">Publications</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.projects == true %}
+            {% if page.title != "Research" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/projs">Research</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.students == true %}
+            {% if page.title != "Students" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/students">Students</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -18,14 +34,6 @@
             {% if page.title != "Teaching" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/teaching">Teaching</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
-         {% if site.pub == true %}
-            {% if page.title != "Publications" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/publications">Publications</a>
                 </li>
             {% endif %}
         {% endif %}

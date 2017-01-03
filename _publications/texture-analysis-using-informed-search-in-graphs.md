@@ -14,7 +14,7 @@ image:  /assets/images/thumbs/sibgrapi_2016_texture.png
 bibtex: /assets/citations/sibgrapi_2016_texture.bib
 ---
 
-# Ultrascale Visualization of Climate Data
+# Texture Analysis Using Informed Search in Graphs
 
 *Romulo L. Frutuoso, João Paulo P. Gomes, Emanuele Santos, Joaquim B. Cavalcante Neto and Creto A. Vidal. In Proceedings of XXIX Conference on Graphics, Patterns and Images (SIBGRAPI 2016), 2016 (to appear).*
 
