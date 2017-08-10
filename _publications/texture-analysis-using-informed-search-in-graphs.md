@@ -8,7 +8,7 @@ description:
 tags: []
 pub: true
 authors: Romulo L. Frutuoso, João Paulo P. Gomes, Emanuele Santos, Joaquim B. Cavalcante Neto and Creto A. Vidal
-in: "Proceedings of 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Sao Paulo, 2016, pp. 363-369."
+in: "Proceedings of 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Sao Paulo, pp. 363-369"
 file: /assets/papers/sibgrapi-2016-texture.pdf
 image:  /assets/images/thumbs/sibgrapi_2016_texture.png
 bibtex: /assets/citations/sibgrapi_2016_texture.bib

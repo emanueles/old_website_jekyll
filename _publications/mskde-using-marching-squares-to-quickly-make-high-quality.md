@@ -8,7 +8,7 @@ description:
 tags: []
 pub: true
 authors: José Florencio de Queiroz Neto, Emanuele Santos, Creto Augusto Vidal
-in: "In Proceedings of 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Sao Paulo, 2016, pp. 305-312"
+in: "In Proceedings of 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Sao Paulo, pp. 305-312"
 file: /assets/papers/mskde-marching-squares.pdf
 image:  /assets/images/thumbs/mskde_sibgrapi_2016.png
 bibtex: /assets/citations/mskde_sibgrapi_2016.bib
