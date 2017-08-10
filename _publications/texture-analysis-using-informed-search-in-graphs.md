@@ -8,7 +8,7 @@ description:
 tags: []
 pub: true
 authors: Romulo L. Frutuoso, João Paulo P. Gomes, Emanuele Santos, Joaquim B. Cavalcante Neto and Creto A. Vidal
-in: "Proceedings of XXIX Conference on Graphics, Patterns and Images (SIBGRAPI 2016) (to appear)"
+in: "Proceedings of 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Sao Paulo, 2016, pp. 363-369."
 file: /assets/papers/sibgrapi-2016-texture.pdf
 image:  /assets/images/thumbs/sibgrapi_2016_texture.png
 bibtex: /assets/citations/sibgrapi_2016_texture.bib
@@ -16,7 +16,7 @@ bibtex: /assets/citations/sibgrapi_2016_texture.bib
 
 # Texture Analysis Using Informed Search in Graphs
 
-*Romulo L. Frutuoso, João Paulo P. Gomes, Emanuele Santos, Joaquim B. Cavalcante Neto and Creto A. Vidal. In Proceedings of XXIX Conference on Graphics, Patterns and Images (SIBGRAPI 2016), 2016 (to appear).*
+*Romulo L. Frutuoso, João Paulo P. Gomes, Emanuele Santos, Joaquim B. Cavalcante Neto and Creto A. Vidal. In Proceedings of 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Sao Paulo, 2016, pp. 363-369.*
 
 <center><img src="/assets/images/thumbs/sibgrapi_2016_texture.png" style="width: 90%;" /></center>
 
@@ -27,4 +27,4 @@ In this paper we propose a variant oisf the TASPG algorithm for texture recognit
 
 [Full paper](/assets/papers/sibgrapi-2016-texture.pdf)
 
-BibTex
+[BibTex](/assets/citations/sibgrapi_2016_texture.bib)

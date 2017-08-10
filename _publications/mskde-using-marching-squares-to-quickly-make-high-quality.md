@@ -8,7 +8,7 @@ description:
 tags: []
 pub: true
 authors: José Florencio de Queiroz Neto, Emanuele Santos, Creto Augusto Vidal
-in: "Proceedings of XXIX Conference on Graphics, Patterns and Images (SIBGRAPI 2016) (to appear)"
+in: "In Proceedings of 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Sao Paulo, 2016, pp. 305-312"
 file: /assets/papers/mskde-marching-squares.pdf
 image:  /assets/images/thumbs/mskde_sibgrapi_2016.png
 bibtex: /assets/citations/mskde_sibgrapi_2016.bib
@@ -16,7 +16,7 @@ bibtex: /assets/citations/mskde_sibgrapi_2016.bib
 
 # MSKDE - Using Marching Squares to Quickly Make High Quality Crime Hotspot Maps
 
-*José Florencio de Queiroz Neto, Emanuele Santos, Creto Augusto Vidal. In Proceedings of XXIX Conference on Graphics, Patterns and Images (SIBGRAPI 2016), 2016 (to appear).*
+*José Florencio de Queiroz Neto, Emanuele Santos, Creto Augusto Vidal. In Proceedings of 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), Sao Paulo, 2016, pp. 305-312.*
 
 <center><img src="/assets/images/thumbs/mskde_sibgrapi_2016.png" style="width: 90%;" /></center>
 
@@ -44,4 +44,4 @@ maps.
 
 [Full paper](/assets/papers/mskde-marching-squares.pdf)
 
-BibTex
+[BibTex](/assets/citations/mskde_sibgrapi_2016.bib)
