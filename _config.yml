@@ -72,6 +72,7 @@ width: large
 # if you don't need projects, comment the *projects* configs below
 projects: true
 teaching: true
+talks: true
 students: true
 
 # if you don't need "about" or "blog", comment them out below

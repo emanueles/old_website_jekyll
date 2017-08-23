@@ -10,7 +10,7 @@
     flex-grow: 1;
 }
 .nav-home>.list>.item {
-    min-width: 140px;
+    min-width: 80px;
 }
 .pub-table {
     display: table;
