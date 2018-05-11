@@ -7,7 +7,7 @@ title: Research
 
 <h2 id="toc_0_1">Current Projects</h2>
 <section class="list">
-    {% assign sorted = (site.projs | sort: 'date') | reverse %}
+    {% assign sorted = site.projs | sort: 'date' | reverse %}
     {% if site.projs.size == 0 %}
         <p class="text-center">Nothing published yet!</p>
     {% elsif site.paginate %}
@@ -34,7 +34,7 @@ title: Research
 <h2 id="toc_0_2">Past Projects</h2>
 
 <section class="list">
-    {% assign sorted = (site.projs | sort: 'date') | reverse %}
+    {% assign sorted = site.projs | sort: 'date' | reverse %}
     {% if site.projs.size == 0 %}
         <p class="text-center">Nothing published yet!</p>
     {% elsif site.paginate %}

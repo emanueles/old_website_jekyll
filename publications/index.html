@@ -6,7 +6,7 @@ title: Publications
 <h1>Publications</h1>
 
 <section class="list">
-    {% assign sorted = (site.publications | sort: 'date') | reverse %}
+    {% assign sorted = site.publications | sort: 'date' | reverse %}
 	{% if site.publications.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}

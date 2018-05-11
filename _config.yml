@@ -65,6 +65,8 @@ authors:
 # normal = 560px / large = 810px
 width: large
 
+timezone: America/Fortaleza
+
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
@@ -110,7 +112,7 @@ sass:
     sass_dir: _sass
     style: compressed
 
-gems:
+plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
