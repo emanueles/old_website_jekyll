@@ -8,7 +8,7 @@ description:
 tags: []
 pub: true
 authors: Artur Mesquita Barbosa, Emanuele Santos, João P. P. Gomes
-in: "In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education), Recife, 2017, p. 1497-1506."
+in: "In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education), Recife, p. 1497-1506."
 file: http://www.br-ie.org/pub/index.php/sbie/article/view/7681/5476
 image:  /assets/images/thumbs/barbosa_sbie_2017_1497.png
 bibtex: /assets/citations/barbosa_sbie_2017_1497.bib
