@@ -10,10 +10,14 @@ layout: page
  * George Gomes
 
 ## MSc
- * Artur Barbosa
+ * Alexandre Cajazeira Ramos
+ * André Bastos
+ * Arthur
+ 
 
 # Former Students
 
 ## MSc
+ * Artur Barbosa, 2016-2017
  * Larissa Candeia, 2014-2016
  
