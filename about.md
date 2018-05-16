@@ -6,7 +6,7 @@ layout: page
     <div class="toleft"> <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Profile Image">
     </div>
     <div class="toright">
-        <p>I am a Professor in the <a href="http://portal.dc.ufc.br/">Department of Computer Science</a> at the <a href="http://www.ufc.br">Federal University of Ceara</a>, in Brazil. I usually teach [Data Visualization course](/datavis-course/) for undergraduate and graduate students and a Numerical Methods course for undergraduates students only.</p>
+        <p>I am a Professor in the <a href="http://portal.dc.ufc.br/">Department of Computer Science</a> at the <a href="http://www.ufc.br">Federal University of Ceara</a>, in Brazil. I usually teach <a href="/datavis-course/">Data Visualization course</a> for undergraduate and graduate students and a Numerical Methods course for undergraduates students only.</p>
         
         <p>My research interests include data visualization and data science.</p>
 
