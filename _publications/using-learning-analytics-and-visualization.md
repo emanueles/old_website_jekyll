@@ -9,7 +9,7 @@ description:
 tags: []
 pub: true
 authors: Artur Mesquita Barbosa, Antonio Nilo de Araujo Neto, Emanuele Santos, João P. P. Gomes
-in: "In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education), Recife, p. 1297-1306."
+in: "In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education), Recife, p. 1297-1306"
 file: http://www.br-ie.org/pub/index.php/sbie/article/view/7658/5454
 image:  /assets/images/thumbs/barbosa_sbie_2017_1297.png
 bibtex: /assets/citations/barbosa_sbie_2017_1297.bib
