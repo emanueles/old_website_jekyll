@@ -11,7 +11,7 @@ award: true
 awarddesc: "Best paper award for the category Computer Graphics/Visualization at SIBGRAPI'18"
 authors: George A.M. Gomes, Emanuele Santos, Creto A. Vidal, Ticiana L. Coelho da Silva, Jose Antonio F. Macedo
 in: "Computers & Graphics, Volume 76, 2018, Pages 129-141"
-file: /assets/papers/gomes2018cg_preprint.pdf
+file: https://authors.elsevier.com/c/1XobBMFvHszxi
 image:  /assets/images/thumbs/gomes2018cg.png
 bibtex: /assets/citations/gomes2018cg.bib
 ---
