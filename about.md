@@ -25,5 +25,5 @@ Bloco 952, Campus do Pici - Pici<br>
 CEP: 60440-593<br>
 Fortaleza - CE - Brasil<br>
 
-Phone: +55-85-33669233 Ext. 221 <br>
+Phone: +55-85-33669233 Ext. 210 <br>
 Fax: +55-85-33669837<br>
