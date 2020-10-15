@@ -10,9 +10,9 @@ layout: page
 
 <p>I’ve got a PhD in Computing at the University of Utah in 2010. Previously I’ve got a B.S and an M.S degree in Computer Science from the Federal University of Ceara in Brazil. </p>
 
-<p>I was one of the main developers of [VisTrails](http://www.vistrails.org) and [crowdLabs](http://www.crowdlabs.org).</p>
+<p>I was one of the main developers of <a href="http://www.vistrails.org">VisTrails</a> and <a href="http://www.crowdlabs.org">crowdLabs</a>.</p>
 
-<p>I have also worked at the [Scientific Computing and Imaging Institute](http://www.sci.utah.edu) at the [University of Utah](http://www.utah.edu) with Professors [Cláudio Silva](http://vgc.poly.edu/~csilva/) and [Juliana Freire](http://vgc.poly.edu/~juliana/) (both now working at [NYU-Poly](http://www.poly.edu)) and at [Los Alamos National Lab](http://www.lanl.gov). I am also a former [fulbrighter](http://www.iie.org/Fulbright/). </p>
+<p>I have also worked at the <a href="http://www.sci.utah.edu">Scientific Computing and Imaging Institute</a> at the <a href="http://www.utah.edu">University of Utah</a> with Professors <a href="https://engineering.nyu.edu/faculty/claudio-silva">Cláudio Silva</a> and <a href="https://engineering.nyu.edu/faculty/juliana-freire">Juliana Freire</a> (both now working at <a href="https://engineering.nyu.edu/">NYU</a>) and at <a href="http://www.lanl.gov">Los Alamos National Lab</a>. I am also a former <a href="http://www.iie.org/Fulbright/">fulbrighter</a>. </p>
 
 
 Office address:
