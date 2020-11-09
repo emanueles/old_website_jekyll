@@ -22,4 +22,16 @@ title: Publications
 			{% include pub-post.html %}
 		{% endfor %}
 	{% endif %}
+	<!-- {% if site.publications.size == 0 %}
+		<p class="text-center">Nothing published yet!</p>
+	{% elsif site.pagination.enabled %}
+		{% for post in paginator.publications %}
+			{% include pub-post.html %}
+		{% endfor %}
+		{% include pagination.html%}
+	{% else %}
+		{% for post in site.publications %}
+			{% include pub-post.html %}
+		{% endfor %}
+	{% endif %} -->
 </section>

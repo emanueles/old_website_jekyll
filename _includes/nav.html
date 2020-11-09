@@ -2,14 +2,14 @@
     <ul class="list">
         {% if page.title != "Home" %}
             <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
+                <a class="header link" href="{{ site.url }}/">home</a>
             </li>
         {% endif %}
 
         {% if site.pub == true %}
             {% if page.title != "Publications" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/publications">Publications</a>
+                    <a class="header link" href="{{ site.url }}/publications">publications</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -17,7 +17,7 @@
         {% if site.projects == true %}
             {% if page.title != "Research" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/projs">Research</a>
+                    <a class="header link" href="{{ site.url }}/projs">research</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -25,7 +25,7 @@
         {% if site.teaching == true %}
             {% if page.title != "Teaching" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/teaching">Teaching</a>
+                    <a class="header link" href="{{ site.url }}/teaching">teaching</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -33,7 +33,7 @@
          {% if site.talks == true %}
             {% if page.title != "Talks" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/talks">Talks</a>
+                    <a class="header link" href="{{ site.url }}/talks">talks</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -41,7 +41,7 @@
         {% if site.students == true %}
             {% if page.title != "Students" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/students">Students</a>
+                    <a class="header link" href="{{ site.url }}/students">students</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -49,7 +49,7 @@
         <!-- {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                    <a class="link header" href="{{ site.url }}/blog">blog</a>
                 </li>
             {% endif %}
         {% endif %} -->
@@ -57,7 +57,7 @@
         {% if site.about == true %}
             {% if page.title != "About" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
+                    <a class="header link" href="{{ site.url }}/about">about</a>
                 </li>
             {% endif %}
         {% endif %}

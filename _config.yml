@@ -1,9 +1,10 @@
 # main text of home
+title: Emanuele Santos
 name: Emanuele Santos
-bio: Computer Scientist
+bio: Computer Scientist & Visualization Researcher
 
 # twitter summary info
-description: Emanuele's personal site
+description: Emanuele's online home
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,6 +17,7 @@ resume: true
 resume-external: true
 resume-url: http://lattes.cnpq.br/3334643879272311
 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://emanueles.github.io
 # your url: http://USERNAME.github.io
 
@@ -54,7 +56,7 @@ email: emanuele@dc.ufc.br
 authors:
     emanuele:
         name: Emanuele Santos
-        bio: Computer Scientist
+        bio: Computer Scientist & Visualization Researcher
         external-image: false
         picture: assets/images/profile.jpg
         twitter: emanueles
@@ -74,11 +76,17 @@ timezone: America/Fortaleza
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
-  sort_reverse: true # display recent posts first
+  enabled: true
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
-  permalink: "/:num/" # pagination link that will be appended
+  permalink: '/:num/' # pagination link that will be appended
+  title: ':title | :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true # display recent posts first
+  trail: 
+    before: 2
+    after: 2
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
@@ -110,12 +118,29 @@ show-author: true
 animation: true
 
 collections:
-    publications:
-      layout: page
-      output: true
-    projs:
-      layout: page
-      output: true
+  publications:
+    output: true
+    permalink: /publications/:path/
+  projs:
+    output: true
+    permalink: /projs/:path/
+
+autopages:
+  enabled: true
+  tags: 
+    layouts: 
+      - autopage_collections_tags.html
+     # - autopage_tags.html
+    enabled: true
+  categories:
+    layouts:
+      - autopage_cat.html
+    enabled: true
+  collections:
+    enabled: true
+# This site uses the pretty permalink structure, this renders all urls with a slash / at the end and 
+# no file endings, I guess that is considered pretty :)
+permalink: pretty
 
 # add default values to specific pages or layouts
 defaults:
