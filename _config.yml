@@ -179,4 +179,5 @@ exclude:
     "FAQ.md",
     "node_modules",
     "vendor",
+    "drafts"
   ]
