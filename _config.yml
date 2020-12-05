@@ -76,7 +76,7 @@ timezone: America/Fortaleza
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: true
+  enabled: false
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
   permalink: '/:num/' # pagination link that will be appended
