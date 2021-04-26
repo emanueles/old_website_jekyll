@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am an Associate Professor in the <a href="http://portal.dc.ufc.br/">Department of Computer Science</a> at the <a href="http://www.ufc.br">Universidade Federal do Ceará</a>, in Brazil. I usually teach <a href="/datavis-course/">Data Visualization course</a> for undergraduate and graduate students and a <a href="https://www.youtube.com/watch?v=wFUdTZukl7U&list=PLomBG50UAP0m9ukqkap2GqlPXOBUq8FaL">Numerical Methods course</a> for undergraduates students only.</p>
+<p>I am an Associate Professor in the <a href="http://portal.dc.ufc.br/">Department of Computer Science</a> at the <a href="http://www.ufc.br">Universidade Federal do Ceará</a>, in Brazil. I usually teach a <a href="/datavis-course/">Data Visualization course</a> for undergraduate and graduate students and a <a href="https://www.youtube.com/watch?v=wFUdTZukl7U&list=PLomBG50UAP0m9ukqkap2GqlPXOBUq8FaL">Numerical Methods course</a> for undergraduates students only.</p>
         
 <p>My research interests include data visualization and data science.</p>
 
