@@ -9,7 +9,6 @@ layout: page
  
 
 ## MSc
- * André Bastos
  * Eduardo Melo
  * Everson Magalhães
  * Carolina Herbster
@@ -24,6 +23,7 @@ layout: page
  
 
 ## MSc
+ * André Bastos, 2018-2021
  * Arthur Bastos, 2018-2021
  * Alexandre Ribeiro Cajazeira Ramos, 2017-2019
  * Antonio Nilo, 2016-2018 (co-advisor)
