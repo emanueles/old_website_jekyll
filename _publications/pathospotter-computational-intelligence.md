@@ -16,7 +16,7 @@ bibtex: /assets/citations/oliveira2022_chapter.bib
 
 # PathoSpotter: Computational Intelligence Applied to Nephropathology
 
-*Luciano Oliveira, Paulo Chagas, Angelo Duarte, Rodrigo Calumby, Emanuele Santos, Michele Angelo, Washington dos Santos (2022). In: Bezerra da Silva Junior, G., Nangaku, M. (eds) Innovations in Nephrology. Springer, Cham. pp. 253--272*
+*Luciano Oliveira, Paulo Chagas, Angelo Duarte, Rodrigo Calumby, Emanuele Santos, Michele Angelo, Washington dos Santos (2022). In: Bezerra da Silva Junior, G., Nangaku, M. (eds) Innovations in Nephrology. Springer, Cham. pp. 253--272.*
 
 <center><img src="/assets/images/thumbs/pathospotterviz_chapter.png" style="width: 100%;" /></center>
 
